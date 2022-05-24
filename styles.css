@@ -4,6 +4,9 @@
     font-family: 'Poppins', sans-serif;
 
 }
+#introduction{
+    font-weight: bold;
+}
 .frambozen{
     text-align: center;
         text-decoration: underline;
